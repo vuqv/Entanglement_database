@@ -37,3 +37,8 @@ We provide various datasets for each organism depending on the research question
 
 
 These datasets are tailored to facilitate specific analyses related to protein entanglement and their structural properties.
+
+# Contributors:
+1. Quyen Vu
+2. Ian Sitarik
+3. Ed O'Brien
